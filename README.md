@@ -9,6 +9,8 @@
 Projeto prático de Lakehouse Analytics desenvolvido no Databricks, utilizando dados públicos e reais de corridas de táxi de Nova York.
 
 
+![Project Overview](images/nyc_taxi_data_lakehouse_analytics_overview.png)
+
 
 O objetivo do projeto foi construir um pipeline de dados completo com PySpark, Delta Lake e SQL, seguindo uma arquitetura em camadas Bronze, Silver e Gold.
 
