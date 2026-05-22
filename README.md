@@ -1,8 +1,8 @@
-\# Databricks NYC Taxi Lakehouse Analytics
+# Databricks NYC Taxi Lakehouse Analytics
 
 
 
-\## 🇧🇷 Português
+## 🇧🇷 Português
 
 
 
@@ -18,11 +18,11 @@ Este projeto reforça habilidades práticas em engenharia/analytics de dados, tr
 
 
 
-\---
+---
 
 
 
-\## Objetivo do projeto
+## Objetivo do projeto
 
 
 
@@ -34,29 +34,29 @@ O projeto cobre:
 
 
 
-\- Ingestão de dados públicos em formato Parquet
+- Ingestão de dados públicos em formato Parquet
 
-\- Upload dos arquivos para Volume no Databricks
+- Upload dos arquivos para Volume no Databricks
 
-\- Leitura com PySpark
+- Leitura com PySpark
 
-\- Criação de tabelas Delta na camada Bronze
+- Criação de tabelas Delta na camada Bronze
 
-\- Limpeza e tratamento dos dados na camada Silver
+- Limpeza e tratamento dos dados na camada Silver
 
-\- Enriquecimento com dados de zonas geográficas
+- Enriquecimento com dados de zonas geográficas
 
-\- Criação de tabelas Gold com métricas de negócio
+- Criação de tabelas Gold com métricas de negócio
 
-\- Consultas SQL para análise executiva
-
-
-
-\---
+- Consultas SQL para análise executiva
 
 
 
-\## Dataset
+---
+
+
+
+## Dataset
 
 
 
@@ -72,9 +72,9 @@ Arquivo utilizado:
 
 
 
-\- `yellow\_tripdata\_2024-01.parquet`
+- `yellow\_tripdata\_2024-01.parquet`
 
-\- `taxi\_zone\_lookup.csv`
+- `taxi\_zone\_lookup.csv`
 
 
 
@@ -82,11 +82,11 @@ A base principal contém aproximadamente 3 milhões de registros de corridas de 
 
 
 
-\---
+---
 
 
 
-\## Arquitetura do projeto
+## Arquitetura do projeto
 
 
 
